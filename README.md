@@ -49,7 +49,6 @@ Full Stack Blockchain Developer, who love to grow Javascript ecosystem to solve 
 ### Most Used Langauges    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&layout=compact&theme=ayu-mirage&langs_count=8)
 
-<div align="center">
 ![](https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 <!--
